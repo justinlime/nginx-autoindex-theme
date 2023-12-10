@@ -1,10 +1,10 @@
 body {
     margin: 1em;
-    background-color: black;
+    background-color: #000000;
 }
 
 a {
-    color: black;
+    color: #00ff00;
     text-decoration: none;
 }
 
@@ -14,18 +14,19 @@ a:hover {
 
 h1 {
     padding: 1em;
-    color: black;
+    color: #00ff00;
     font-size: 100%;
 }
 
 hr {
-    border-top: 2px solid black;
+    border-top: 2px solid #00ff00;
 }
 
 pre {
     overflow: auto;
     margin: 1em;
     line-height: 2em;
+    color: #00ff00;
 }
 
 footer {
@@ -34,8 +35,10 @@ footer {
 
 .container {
     overflow: hidden;
-    background-color: lawngreen;
+    background-color: #000000;
     border-radius: 10px;
+    border-style: solid;
+    border-color: #00ff00;
 }
 
 /* ***** */
